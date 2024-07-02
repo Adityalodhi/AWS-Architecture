@@ -1,4 +1,4 @@
-#AWS High Availability, Secure, and Scalable Deployment Architecture
+# AWS High Availability, Secure, and Scalable Deployment Architecture
 
 Introduction
 
@@ -12,9 +12,7 @@ To learn the core functionality of AWS, I have created a project showcasing a de
 
 # Diagram
 
-
-# Viedo 
-working Project Video
+![prod-project (1)](https://github.com/Adityalodhi/AWS-Architecture/assets/106116888/5e7445b8-757f-4c0d-afeb-8e286519af30)
 
 # Architecture Overview
 
@@ -88,6 +86,9 @@ Create NAT Gateways in each public subnet.
     a.Launch an EC2 instance in a public subnet to act as a Bastion Host.
 
     b.Associate the Bastion Host with the security group allowing SSH access from your IP address.
+
+# Viedo 
+working Project Video
 
 
 
