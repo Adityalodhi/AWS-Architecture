@@ -8,6 +8,7 @@ Commands
 ~ vim index.html
 
 to run file we will use python
+
 ~ python3 -m http.server 8000
 
 3. For Bastion host
