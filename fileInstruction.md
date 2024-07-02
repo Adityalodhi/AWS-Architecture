@@ -3,11 +3,15 @@ to cheack the wheather the traffic is going on both server we can run this file 
 
 Commands
 
-1. for Auto scalling instances 
+1. for Auto scalling instances
+   
 ~ vim index.html
+
 to run file we will use python
 ~ python3 -m http.server 8000
 
-2. For Bastion host
+3. For Bastion host
+   
  ~  vim sendTraffic.py
+ 
  ~  pyhton3 sendTraffic.py
